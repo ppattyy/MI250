@@ -1,4 +1,4 @@
-beverage = "sprite"
+beverage = "sprite!"
 count = 2
 
 print(count, "bottles of", beverage, "on the wall")
